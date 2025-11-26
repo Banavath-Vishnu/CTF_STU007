@@ -1,4 +1,4 @@
-# CTF_STU160: AI Detective Challenge
+# CTF_STU007: AI Detective Challenge
 
 ## Project Overview
 This repository contains the solution for the "Capture the Flag" AI Detective challenge. The objective was to identify a manipulated book within a large dataset of books and reviews, locate hidden clues, and train a Machine Learning model to distinguish between suspicious and genuine reviews.
@@ -35,3 +35,4 @@ The solution requires Python and the following libraries:
     python solver.py
     ```
 3.  The script will output the flags to the console and the process flow.
+
