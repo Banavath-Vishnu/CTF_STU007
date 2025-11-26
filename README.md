@@ -34,5 +34,9 @@ The solution requires Python and the following libraries:
     ```bash
     python solver.py
     ```
+
+     YOU CAN ALSO USE JUPITER/GOOGLE COLLAB script:
+ 
 3.  The script will output the flags to the console and the process flow.
+
 
